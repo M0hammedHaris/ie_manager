@@ -26,6 +26,7 @@ dependencies:
   toast: ^0.1.5
   flutter_datetime_picker: ^1.2.6
   material_design_icons_flutter: ^3.2.4495
+  nice_button: ^0.1.7
 
 dev_dependencies:
   flutter_test:
