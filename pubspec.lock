@@ -29,6 +29,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.14.11"
+  community_material_icon:
+    dependency: "direct main"
+    description:
+      name: community_material_icon
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.5.95"
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -41,13 +48,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_datetime_picker:
+  flutter_staggered_grid_view:
     dependency: "direct main"
     description:
-      name: flutter_datetime_picker
+      name: flutter_staggered_grid_view
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.2.6"
+    version: "0.2.7"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -60,13 +67,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.5"
-  material_design_icons_flutter:
-    dependency: "direct main"
-    description:
-      name: material_design_icons_flutter
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "3.2.4495"
   meta:
     dependency: transitive
     description:
@@ -74,13 +74,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.7"
-  nice_button:
-    dependency: "direct main"
-    description:
-      name: nice_button
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.7"
   path:
     dependency: transitive
     description:
@@ -149,13 +142,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.5"
-  toast:
-    dependency: "direct main"
-    description:
-      name: toast
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.5"
   typed_data:
     dependency: transitive
     description:
@@ -172,4 +158,3 @@ packages:
     version: "2.0.8"
 sdks:
   dart: ">=2.2.2 <3.0.0"
-  flutter: ">=0.1.2"
